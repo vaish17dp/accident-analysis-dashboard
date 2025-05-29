@@ -42,10 +42,9 @@ The dashboard visualizes key insights from traffic accident data, helping users 
 
 [Watch Dashboard Power Bi](https://drive.google.com/file/d/1ECvAB4uSLNUJtGlISgaq0nhwWwkTMA7b/view?usp=drive_link) 
 
-[Watch Dashboard Tableau]([https://your-video-link.com](https://drive.google.com/file/d/1hEQ3n5WblXBy1_EGX3guBaTjH2vdYo9T/view?usp=drive_link))
+[Watch Dashboard Tableau](https://drive.google.com/file/d/1hEQ3n5WblXBy1_EGX3guBaTjH2vdYo9T/view?usp=drive_link)
 
 ## 🚀 How to Use
-
 1. Open the Tableau workbook (`.twbx`) or published link.
 2. Interact with filters to view data by time, district, or severity.
 3. Hover on maps and charts for detailed insights.
