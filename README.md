@@ -34,9 +34,10 @@ The dashboard visualizes key insights from traffic accident data, helping users 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Power Bi](C:\Users\Admin\Pictures\Screenshots)
+![Dashboard Power Bi](![Screenshot (7)](https://github.com/user-attachments/assets/c5433b8a-b1f1-4e85-9fd6-8b566444d948))
 
-![Dashboard Tableau](C:\Users\Admin\Pictures\Screenshots)
+![Dashboard Tableau](![Screenshot (5)](https://github.com/user-attachments/assets/db6e71a5-ad45-4711-a37f-994c92c51053))
+
 
 ## 📽️ Demo Video
 
