@@ -57,7 +57,6 @@ Contact the author for access or use your local traffic accident data.
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to reach out via [GitHub Issues](https://github.com/vaish17dp/accident-analysis-dashboard).
+If you found this project helpful or have any suggestions, feel free to connect with me on [LinkedIn](www.linkedin.com/in/vaishnavi-patil-60a328312)
 
 ---
-
