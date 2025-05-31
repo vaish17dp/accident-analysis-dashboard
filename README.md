@@ -57,6 +57,8 @@ Contact the author for access or use your local traffic accident data.
 
 ## 📬 Contact
 
-If you found this project helpful or have any suggestions, feel free to connect with me on [LinkedIn](www.linkedin.com/in/vaishnavi-patil-60a328312)
+If you found this project helpful or have any suggestions, feel free to connect with me on
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-patil-60a328312)
 
 ---
